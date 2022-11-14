@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-12 22:45:18</sys_created_on>
+        <sys_id>c000ef708726d1102f30fea9cebb35cd</sys_id>
+        <sys_name>x_916098_id_2690_0_booking_request.x_916098_id_2690_0.booking_request_user</sys_name>
+        <sys_package display_value="ID検証フロー" source="x_916098_id_2690_0">a717e050ae6e1110c715308f23d79fb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ID検証フロー">a717e050ae6e1110c715308f23d79fb2</sys_scope>
+        <sys_security_acl display_value="x_916098_id_2690_0_booking_request">c400ef708726d1102f30fea9cebb35ca</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c000ef708726d1102f30fea9cebb35cd</sys_update_name>
+        <sys_user_role display_value="x_916098_id_2690_0.booking_request_user" name="x_916098_id_2690_0.booking_request_user">7fff137887e2d1102f30fea9cebb3595</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

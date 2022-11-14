@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search results">5b17e0501c6e11101452b8035793cb74</macroponent>
+        <name>Handle Search</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function({
+    api,
+    event,
+    helpers
+}) {
+    const fields = {
+        searchContextConfigId: api.context.props.searchContextConfigId,
+    };
+    const params = {
+        searchFilters: api.context.props.searchFilters,
+        searchTerm: api.context.props.searchTerm,
+        evamDefinitionId: api.context.props.evamDefinitionId
+    };
+
+    if (event.name === 'SN_SEARCH_RESULTS_CONTAINER#SEARCH_EXECUTED') {
+        params.disableSpellCheck = true;
+        params.searchTerm = event.payload.searchTerm;
+    } else if (event.name === 'SN_SEARCH_COMBOBOX#SEARCH_EXECUTED') {
+        params.searchTerm = event.payload.searchTerm;
+        params.disableSpellCheck = false;
+        api.setState('loading', true);
+        api.setState('searchTerm', event.payload.searchTerm);
+    }
+    helpers.navigate.to('search', fields, params);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-10 20:00:55</sys_created_on>
+        <sys_id>1317e050bf6e1110907c7d2a070f4275</sys_id>
+        <sys_name>Handle Search</sys_name>
+        <sys_package display_value="ID検証フロー" source="x_916098_id_2690_0">a717e050ae6e1110c715308f23d79fb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ID検証フロー">a717e050ae6e1110c715308f23d79fb2</sys_scope>
+        <sys_update_name>sys_ux_client_script_1317e050bf6e1110907c7d2a070f4275</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

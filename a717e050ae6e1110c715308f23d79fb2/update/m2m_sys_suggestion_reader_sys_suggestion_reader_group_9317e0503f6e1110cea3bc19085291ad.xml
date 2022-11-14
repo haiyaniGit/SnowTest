@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-10 20:00:53</sys_created_on>
+        <sys_id>9317e0503f6e1110cea3bc19085291ad</sys_id>
+        <sys_name/>
+        <sys_package display_value="ID検証フロー" source="x_916098_id_2690_0">a717e050ae6e1110c715308f23d79fb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ID検証フロー">a717e050ae6e1110c715308f23d79fb2</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Recent Search Reader Group for Document Approval Search Configuration">9717e050816e1110c882e9cc5581a0ad</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="User History Reader">1ee419777320001052c7d5fdbdf6a7ad</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_9317e0503f6e1110cea3bc19085291ad</sys_update_name>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

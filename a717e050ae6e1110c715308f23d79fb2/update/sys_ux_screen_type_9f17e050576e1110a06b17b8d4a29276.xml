@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>doc_landing</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-10 20:00:50</sys_created_on>
+        <sys_id>9f17e050576e1110a06b17b8d4a29276</sys_id>
+        <sys_name>doc_landing</sys_name>
+        <sys_package display_value="ID検証フロー" source="x_916098_id_2690_0">a717e050ae6e1110c715308f23d79fb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ID検証フロー">a717e050ae6e1110c715308f23d79fb2</sys_scope>
+        <sys_update_name>sys_ux_screen_type_9f17e050576e1110a06b17b8d4a29276</sys_update_name>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=9f17e050576e1110a06b17b8d4a29276"/>
+</record_update>

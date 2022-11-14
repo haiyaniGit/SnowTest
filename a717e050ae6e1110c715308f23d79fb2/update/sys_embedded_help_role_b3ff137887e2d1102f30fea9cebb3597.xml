@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_916098_id_2690_0.booking_request_user" name="x_916098_id_2690_0.booking_request_user">7fff137887e2d1102f30fea9cebb3595</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-12 22:45:18</sys_created_on>
+        <sys_id>b3ff137887e2d1102f30fea9cebb3597</sys_id>
+        <sys_name>7fff137887e2d1102f30fea9cebb3595</sys_name>
+        <sys_package display_value="ID検証フロー" source="x_916098_id_2690_0">a717e050ae6e1110c715308f23d79fb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ID検証フロー">a717e050ae6e1110c715308f23d79fb2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b3ff137887e2d1102f30fea9cebb3597</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

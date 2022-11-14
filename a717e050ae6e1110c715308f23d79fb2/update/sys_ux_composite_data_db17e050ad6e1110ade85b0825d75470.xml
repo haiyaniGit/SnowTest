@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data">
+    <sys_ux_composite_data action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_filter_label>Default</base_filter_label>
+        <name>doc-approval-get-returned</name>
+        <query_parameters/>
+        <required_roles/>
+        <sort_order>descend</sort_order>
+        <sys_class_name>sys_ux_composite_data</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-10 20:00:53</sys_created_on>
+        <sys_id>db17e050ad6e1110ade85b0825d75470</sys_id>
+        <sys_name>doc-approval-get-returned</sys_name>
+        <sys_package display_value="ID検証フロー" source="x_916098_id_2690_0">a717e050ae6e1110c715308f23d79fb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ID検証フロー">a717e050ae6e1110c715308f23d79fb2</sys_scope>
+        <sys_update_name>sys_ux_composite_data_db17e050ad6e1110ade85b0825d75470</sys_update_name>
+    </sys_ux_composite_data>
+</record_update>

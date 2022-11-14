@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_08_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-10 20:00:44</sys_created_on>
+        <sys_id>1717e050ce6e111096fcd53d637f0982</sys_id>
+        <sys_name>text_08_element</sys_name>
+        <sys_package display_value="ID検証フロー" source="x_916098_id_2690_0">a717e050ae6e1110c715308f23d79fb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ID検証フロー">a717e050ae6e1110c715308f23d79fb2</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_1717e050ce6e111096fcd53d637f0982</sys_update_name>
+        <view_config display_value="Document Approvals View Config">1317e050506e111057e8676ab9526a85</view_config>
+        <view_template_slot display_value="text_08">1317e0501a6e1110193ed791c0a08782</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

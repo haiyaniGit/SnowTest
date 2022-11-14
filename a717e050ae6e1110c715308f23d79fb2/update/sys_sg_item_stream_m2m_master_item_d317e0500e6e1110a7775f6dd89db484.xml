@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="New Document Aprpovals Item Stream">1f17e050766e1110510aad091de93884</item_stream>
+        <master_item display_value="New Document Aprpovals Main Item">1317e050c76e1110b63ddb8591e65084</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-10 20:00:39</sys_created_on>
+        <sys_id>d317e0500e6e1110a7775f6dd89db484</sys_id>
+        <sys_name/>
+        <sys_package display_value="ID検証フロー" source="x_916098_id_2690_0">a717e050ae6e1110c715308f23d79fb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ID検証フロー">a717e050ae6e1110c715308f23d79fb2</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_d317e0500e6e1110a7775f6dd89db484</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_workspace_header_ux_header_config">
+    <sys_ux_m2m_workspace_header_ux_header_config action="INSERT_OR_UPDATE">
+        <header_config display_value="Document Approval Workspace">5f17e050ca6e11106ad07bd274cd8d6d</header_config>
+        <sys_class_name>sys_ux_m2m_workspace_header_ux_header_config</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-10 20:00:38</sys_created_on>
+        <sys_id>5317e050506e11108289ba4f1ef0e26d</sys_id>
+        <sys_name/>
+        <sys_package display_value="ID検証フロー" source="x_916098_id_2690_0">a717e050ae6e1110c715308f23d79fb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ID検証フロー">a717e050ae6e1110c715308f23d79fb2</sys_scope>
+        <sys_update_name>sys_ux_m2m_workspace_header_ux_header_config_5317e050506e11108289ba4f1ef0e26d</sys_update_name>
+        <workspace_form_header display_value="sys_user">1f17e050286e1110c68aa435aa95e3a9</workspace_form_header>
+    </sys_ux_m2m_workspace_header_ux_header_config>
+</record_update>

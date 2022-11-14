@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="056e97308726d1102f30fea9cebb3507" extends="task" label="Booking Request" max_length="40" name="x_916098_id_2690_0_booking_request" type="collection"/>
+</database>
